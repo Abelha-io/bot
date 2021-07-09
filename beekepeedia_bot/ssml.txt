@@ -1,0 +1,12 @@
+<speak>
+   Aqui estão os exemplos de <say-as interpret-as = "characters"> SSML </say-as>.
+   Posso pausar <break time = "3s" />.
+   Eu posso tocar um som
+   <audio src = "https://www.example.com/MY_MP3_FILE.mp3"> não obteve seu arquivo de áudio MP3 </audio>.
+   Posso falar em cardeais. Seu número é <say-as interpret-as = "cardinal"> 10 </say-as>.
+   Ou posso falar em ordinais. Você está <say-as interpret-as = "ordinal"> 10 </say-as> na fila.
+   Ou posso até falar em dígitos. Os dígitos para dez são <say-as interpret-as = "characters"> 10 </say-as>.
+   Também posso substituir frases, como o <sub alias = "World Wide Web Consortium"> W3C </sub>.
+   Finalmente, posso falar um parágrafo com duas frases.
+   <p> <s> Esta é a frase um. </s> <s> Esta é a frase dois. </s> </p>
+</speak>
