@@ -1,0 +1,37 @@
+{
+  "id": "8a0f891f-21d8-481a-91fe-8a3d0d44e1c3",
+  "name": "Default Fallback Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.unknown",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Não consegui compreender, desculpe. Deseja saber sobre nossos serviços, produtos ou agendar um atendimento?",
+            "Desculpe, não entendi! Deseja saber sobre nossos serviços, produtos ou agendar um atendimento?",
+            "Deseja saber sobre nossos serviços, produtos ou agendar um atendimento?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": true,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

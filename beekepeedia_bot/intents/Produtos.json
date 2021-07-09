@@ -1,0 +1,36 @@
+{
+  "id": "e0d2b236-1938-49b0-b9a1-4c1b981a4efc",
+  "name": "Produtos",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Ofertamos a revenda de super produtos de abelhas: própolis, mel, pólen, saburá, cera pura, atrativos, iscas, caixas racionais, etc.\nHá mais alguma coisa que eu possa fazer por você?",
+            "Oferecemos revenda de super produtos de abelhas: própolis, mel, pólen, saburá, cera pura, atrativos, iscas, caixas racionais, etc.\nComo posso lhe ajudar melhor?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

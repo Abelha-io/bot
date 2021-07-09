@@ -1,0 +1,81 @@
+[
+  {
+    "id": "23783525-1362-45cf-8f43-a8ce717a2cbf",
+    "data": [
+      {
+        "text": "encurtador",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "8a9c40af-cc30-4401-ac7a-facfc1d15ff5",
+    "data": [
+      {
+        "text": "resgate",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "e92e5df2-510f-4ec6-ad78-e2f30db6aa5c",
+    "data": [
+      {
+        "text": "remoção",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "4bca5cdc-4ee8-48eb-9ca0-da0c14ddc324",
+    "data": [
+      {
+        "text": "enxames",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "742e2d1b-9c91-4b76-9b7c-1cf5e203a210",
+    "data": [
+      {
+        "text": "Quais serviços vocês prestam?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "eef72f70-3e9b-48e0-bd16-99f915066695",
+    "data": [
+      {
+        "text": "serviços",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

@@ -1,0 +1,41 @@
+{
+  "id": "aab02e48-920f-414d-a742-6d9747fbb14d",
+  "name": "Default Welcome Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.welcome",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Olá. Posso contar-lhe sobre nossos produtos, serviços ou agendar um atendimento. O que deseja?",
+            "Oi. Posso contar-lhe sobre nossos produtos, serviços ou agendar um atendimento. Como posso lhe ajudar?",
+            "Oi. Posso contar-lhe sobre nossos produtos, serviços ou agendar um atendimento. O que posso fazer por você?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "WELCOME"
+    }
+  ],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

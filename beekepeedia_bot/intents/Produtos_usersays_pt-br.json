@@ -1,0 +1,239 @@
+[
+  {
+    "id": "22b780b1-6180-44e8-9f22-e2928e6e7cde",
+    "data": [
+      {
+        "text": "caixa",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " racional",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "c4f4bf5e-41d5-447a-80a7-938be854bc37",
+    "data": [
+      {
+        "text": "isca",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "0f66a112-1141-45d5-9c97-c056e535eb03",
+    "data": [
+      {
+        "text": "atrativos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "09c78fa9-b28d-44ee-bda3-d392d6d5f149",
+    "data": [
+      {
+        "text": "atrativo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "e20d290e-f5fb-4f22-8103-88bfa2879ceb",
+    "data": [
+      {
+        "text": "iscas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "43a321c3-48aa-443d-b4fe-1a5c6efdec85",
+    "data": [
+      {
+        "text": "caixas",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "racionais",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "4b887201-958b-4b8f-abf0-0c36f0b3120b",
+    "data": [
+      {
+        "text": "saburá",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "9f4f4b40-f937-406a-ab02-21954734c7f6",
+    "data": [
+      {
+        "text": "cera",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "123e3fa5-4a23-498d-8d83-1d20e2e61d65",
+    "data": [
+      {
+        "text": "mel",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "1262dd52-5c56-46e7-a386-972c6f171963",
+    "data": [
+      {
+        "text": "pólen",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "ff6ce7df-737c-466a-b80c-e17b75b0cf0a",
+    "data": [
+      {
+        "text": "Tem ",
+        "userDefined": false
+      },
+      {
+        "text": "pólen",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "60743c7c-371c-424a-9837-fef9cc44917b",
+    "data": [
+      {
+        "text": "Tem mel?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "735d4037-b4c9-4a9d-954d-113073a55772",
+    "data": [
+      {
+        "text": "Tem própolis?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "1e9ec9fa-de11-4a10-b228-984952b1340d",
+    "data": [
+      {
+        "text": "produtos",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "8b50cc50-6142-4c0e-91fb-d2b715a67dae",
+    "data": [
+      {
+        "text": "Tem produtos?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "30251f02-f01d-4697-b52b-c7f86ff7ad21",
+    "data": [
+      {
+        "text": "Quais produtos vocês tem?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

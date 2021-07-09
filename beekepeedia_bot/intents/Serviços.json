@@ -1,0 +1,35 @@
+{
+  "id": "058d9b2a-df72-49d7-a683-26babef47f84",
+  "name": "Serviços",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Ofertamos diversos serviços relacionados as abelhas: solitárias, com ferrão e também as abelhas sem ferrão nativas do Brasil! Realizamos resgate de enxames de abelhas! Conheça nosso encurtador de URLs (abelha.io/seusite)\nComo posso lhe ajudar melhor?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
